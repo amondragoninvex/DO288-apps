@@ -1,3 +1,3 @@
 <?php
-print "Trigger builds with image stream \n";
+print "Trigger construido con image stream \n";
 ?>
